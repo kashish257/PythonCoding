@@ -5,8 +5,9 @@ def prime(user_in):
             print('no is not prime')
             break
 
-    else:
-        print("prime",user_in)
+        else:
+            print("prime",user_in)
 
 
 
+prime(user_in)
